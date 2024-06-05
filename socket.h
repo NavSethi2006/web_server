@@ -15,4 +15,4 @@
 
 int socket_init();
 
-void socket_thread(void *thread_func(int *arg));
+void socket_thread();
